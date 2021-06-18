@@ -1,0 +1,6 @@
+telegram_token = '1881392277:AAEVMw4TjYNliizoS8rjyLqGh-JVhUM02Ak'
+kinopoisk_token = '378c1c98-d7c9-4e12-8588-a99f0b3f68e9'
+currency_url = 'https://api.exchangerate-api.com/v4/latest/USD'
+yandex_api = '11f65570-477c-49f6-b8f6-b138ace5388a'
+weather_token = 'bc3837c78f2e8aa584273d7c3dd3d4a3'
+weather_url = 'http://api.openweathermap.org/data/2.5/weather?q={0}&appid={1}'
